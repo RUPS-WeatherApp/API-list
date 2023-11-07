@@ -15,4 +15,4 @@ Za razne registracije lahko uporabite ta Microsoft Email Account (če ne želite
 
 API key: 61f536c7ec3e62f7c4d43412de9977c8
 
-Primer url: https://www.pwc.com/gx/en/issues/succeeding-in-uncertainty/six-paradoxes-of-leadership.html (_API ključ potrebuje nekaj časa, da se aktivira_)
+Primer url: https://api.openweathermap.org/data/2.5/weather?q=London,uk&APPID=61f536c7ec3e62f7c4d43412de9977c8 (_API ključ potrebuje nekaj časa, da se aktivira_)
